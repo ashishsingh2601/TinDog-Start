@@ -97,3 +97,12 @@ p{
     width: 15%;
     margin: 20px 20px 50px;
 }
+
+/* pricing */
+#pricing{
+    padding: 5rem;
+    text-align: center;
+}
+.pricing-card{
+    padding: 3% 3%;
+}
