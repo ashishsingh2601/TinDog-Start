@@ -111,3 +111,14 @@ p{
 .pricing-card{
     padding: 3% 3%;
 }
+
+/* media queries */
+@media (max-width: 991px){
+    .title-image{
+        position: static;
+        transform: rotate(0);
+    }
+    #title{
+        text-align: center;
+    }
+}
